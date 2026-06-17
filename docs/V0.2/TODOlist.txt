@@ -1,0 +1,37 @@
+MONTHS 1-2: PROTOCOL FOUNDATION
+
+1. Guild Identity Specification
+   - Guild IDs
+   - Member IDs
+   - Reputation structure
+   - Trust relationships
+
+2. Task Contract Specification
+   - Work order format
+   - Deliverable definitions
+   - Acceptance criteria
+   - Escrow requirements
+
+3. Resource Exchange Protocol
+   - Resource definitions
+   - Transfer rules
+   - Ownership tracking
+   - Audit trails
+
+4. Federation & Governance Rules
+   - Guild hierarchy
+   - Voting mechanisms
+   - Delegation authority
+   - Dispute escalation
+
+5. Reputation & Validation Engine
+   - Reputation scoring
+   - Verification workflow
+   - Quality metrics
+   - Fraud detection rules
+
+6. Reference Architecture
+   - Core services
+   - API definitions
+   - Security model
+   - Inter-guild communication
